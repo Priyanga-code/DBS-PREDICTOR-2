@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # DBS Share Price Predictor
 
-A simple Flask web app that predicts DBS share price based on the USD/SGD exchange rate using a linear regression model.
+A simple Flask web application that predicts the DBS share price based on the USD/SGD exchange rate using a linear regression model.
 
 ---
 
@@ -13,13 +12,10 @@ A simple Flask web app that predicts DBS share price based on the USD/SGD exchan
 
 ---
 
-## How to Run
+## Installation
 
-1. Clone the repo:
+1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/DBS-predictor.git
+   git clone https://github.com/Priyanga-code/DBS-predictor.git
    cd DBS-predictor
-=======
-# DBS-predictor
->>>>>>> 2f1a671d90bd75a9c70d6479276edac7fb8aaba7
